@@ -1,16 +1,21 @@
 ## Luvin — 빵을 굽는 과정처럼, 사랑도 온도와 타이밍이 전부에요
-나의 연애 성향을 빵으로 분석하고,
-나와 똑같은 AI 분신이 연애하는 걸 관찰하는 AI 연애 시뮬레이션 서비스입니다
+
+> 너무 빠르면 덜 익고, 너무 늦으면 타버리니까요
+
+"나의 연애 성향을 빵으로 분석하고,<br>
+나와 똑같은 AI 분신이 연애하는 걸 관찰하는 AI 연애 시뮬레이션 서비스입니다"
+
+---
 
 ### 🌀 팀 소개
 
 | 이름 | 역할 |
 |---|---|
-| 김지은 | CEO, Backend, AI |
-| 윤미수 | CTO, Frontend, Design |
-| 김태훈 | Frontend, AI |
-| 이우린 | Frontend |
-| 이은채 | Backend |
+| [김지은](https://github.com/jieun0903) | CEO, Backend, AI |
+| [윤미수](https://github.com/yoonmisu) | CTO, Frontend, Design |
+| [김태훈](https://github.com/ketarubot) | Frontend, AI |
+| [이우린](https://github.com/woo-rin) | Frontend |
+| [이은채](https://github.com/dldmsco-29) | Backend |
 
 ---
 
@@ -44,8 +49,4 @@
 | Backend | Spring, FastAPI, PostgreSQL |
 | AI | Redis, Pytorch |
 | 협업, 디자인, 문서 | GitHub, Figma, Notion |
-
----
-
-> 너무 빠르면 덜 익고, 너무 늦으면 타버리니까요
 
