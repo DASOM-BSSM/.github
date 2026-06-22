@@ -6,11 +6,11 @@
 
 | 이름 | 역할 |
 |---|---|
-| [김지은](https://github.com/jieun0903) | CEO, Backend, AI |
-| [윤미수](https://github.com/yoonmisu) | CTO, Frontend, Design |
-| [김태훈](https://github.com/ketarubot) | Frontend, AI |
-| [이우린](https://github.com/woo-rin) | Frontend |
-| [이은채](https://github.com/dldmsco-29) | Backend |
+| [김지은](https://github.com/jieun0903) | CEO, BE, AI |
+| [윤미수](https://github.com/yoonmisu) | CTO, FE, Design |
+| [김태훈](https://github.com/ketarubot) | FE, AI |
+| [이우린](https://github.com/woo-rin) | FE |
+| [이은채](https://github.com/dldmsco-29) | BE |
 
 ---
 
