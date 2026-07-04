@@ -6,7 +6,7 @@
 
 | 이름 | 역할 |
 |---|---|
-| [김지은](https://github.com/jieun0903) | CEO, BE, AI |
+| [김지은](https://github.com/jieun0903) | CEO, BE |
 | [윤미수](https://github.com/yoonmisu) | CTO, FE, Design |
 | [김태훈](https://github.com/ketarubot) | FE, AI |
 | [이우린](https://github.com/woo-rin) | FE |
